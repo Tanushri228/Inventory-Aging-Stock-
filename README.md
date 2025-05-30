@@ -1,10 +1,4 @@
 # Inventory-Aging-Stock-
-Of course! Here’s a polished reporting description using the format you provided, tailored to the **Inventory Dashboard** that you shared:
-
----
-
-# Inventory-Dashboard
-
 🌼 **Inventory Management Dashboard**
 A comprehensive Power BI dashboard designed to streamline inventory management by tracking stock levels, aging analysis, and product-level insights across multiple warehouses and distribution centers. This dynamic reporting solution empowers supply chain and operations teams to make data-driven decisions and optimize inventory planning.
 
